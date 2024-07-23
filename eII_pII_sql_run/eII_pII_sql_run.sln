@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eII_pII_sql_run", "eII_pII_sql_run.csproj", "{E58DA883-EB2C-4BA5-8852-BC42DE3618BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58DA883-EB2C-4BA5-8852-BC42DE3618BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58DA883-EB2C-4BA5-8852-BC42DE3618BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58DA883-EB2C-4BA5-8852-BC42DE3618BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58DA883-EB2C-4BA5-8852-BC42DE3618BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9705DF5-3ECC-42B9-9055-87BD9B009E11}
+	EndGlobalSection
+EndGlobal
